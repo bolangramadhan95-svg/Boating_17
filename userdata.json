@@ -1,17 +1,5 @@
 [
     {
-        "device_id": "525cb8cedc6cae03",
-        "key": "525cb8cedc6cae03",
-        "expirydate": "03-01-2030",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "525cb8cedc6cae031",
-        "key": "525cb8cedc6cae031",
-        "expirydate": "03-01-2030",
-        "Allowoffline": true
-    },
-    {
         "device_id": "f20ffdfe4e09461e",
         "key": "f20ffdfe4e09461e",
         "expirydate": "03-01-2030",
